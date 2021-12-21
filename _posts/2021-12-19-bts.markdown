@@ -3,7 +3,7 @@ layout: post
 title: "BTS (Bangtan Boys) Members"
 ---
 
-![bts](/pic/bts.jpg)
+![bts](https://github.com/6210110322/3SB01/blob/main/pic/bts.jpg)
 
 **BTS (방탄소년단)** is a South Korean boy group that consists of 7 members: **RM**, **Jin**, **Suga**, **J-Hope**, **Jimin**, **V** and **Jungkook**. They are under Big Hit Music (part of HYBE Labels). BTS debuted on June 13, 2013 with the lead single *‘No More Dream‘* on album *‘2 Cool 4 Skool‘*.
 
@@ -11,7 +11,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## RM
 
-![rm](/pic/rm.jpg)
+![rm](https://github.com/6210110322/3SB01/blob/main/pic/rm.jpg)
 
 | **Stage Name** | RM (아르엠), formerly Rap Monster (랩몬스터) |
 | **Birth Name** | Kim Nam Joon (김남준) |
@@ -24,7 +24,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Jin
 
-![jin](/pic/jin.jpg)
+![jin](https://github.com/6210110322/3SB01/blob/main/pic/jin.jpg)
 
 | **Stage Name** | Jin (진) |
 | **Birth Name** | Kim Seok Jin (김석진) |
@@ -37,7 +37,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Suga
 
-![suga](/pic/suga.jpg)
+![suga](https://github.com/6210110322/3SB01/blob/main/pic/suga.jpg)
 
 | **Stage Name** | Suga (슈가) |
 | **Birth Name** | Min Yoon Gi (민윤기) |
@@ -50,7 +50,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## J-Hope
 
-![jhope](/pic/jhope.jpg)
+![jhope](https://github.com/6210110322/3SB01/blob/main/pic/jhope.jpg)
 
 | **Stage Name** | J-Hope (제이홉) |
 | **Birth Name** | Jung Ho Seok (정호석) |
@@ -63,7 +63,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Jimin
 
-![jimin](/pic/jimin.jpg)
+![jimin](https://github.com/6210110322/3SB01/blob/main/pic/jimin.jpg)
 
 | **Stage Name** | Jimin (지민) |
 | **Birth Name** | Park Ji Min (박지민) |
@@ -76,7 +76,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## V
 
-![v](/pic/v.jpg)
+![v](https://github.com/6210110322/3SB01/blob/main/pic/v.jpg)
 
 | **Stage Name** | V (뷔) |
 | **Birth Name** | Kim Tae Hyung (김태형) |
@@ -89,7 +89,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Jungkook
 
-![jungkook](/pic/jungkook.jpg)
+![jungkook](https://github.com/6210110322/3SB01/blob/main/pic/jungkook.jpg)
 
 | **Stage Name** | Jungkook (정국) |
 | **Birth Name** | Jeon Jung Kook (전정국) |
