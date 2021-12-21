@@ -3,7 +3,7 @@ layout: post
 title: "BTS (Bangtan Boys) Members"
 ---
 
-![bts](https://kprofiles.com/wp-content/uploads/2016/04/Group-20-900x600.jpg)
+![bts](https://6210110322.github.io/3SB01/pic/bts.jpg)
 
 **BTS (방탄소년단)** is a South Korean boy group that consists of 7 members: **RM**, **Jin**, **Suga**, **J-Hope**, **Jimin**, **V** and **Jungkook**. They are under Big Hit Music (part of HYBE Labels). BTS debuted on June 13, 2013 with the lead single *‘No More Dream‘* on album *‘2 Cool 4 Skool‘*.
 
@@ -11,7 +11,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## RM
 
-![rm](https://kprofiles.com/wp-content/uploads/2016/04/1-RM-4-900x600.jpg)
+![rm](https://6210110322.github.io/3SB01/pic/rm.jpg)
 
 | **Stage Name** | RM (아르엠), formerly Rap Monster (랩몬스터) |
 | **Birth Name** | Kim Nam Joon (김남준) |
@@ -24,7 +24,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Jin
 
-![jin](https://kprofiles.com/wp-content/uploads/2016/04/2-Jin-4-900x600.jpg)
+![jin](https://6210110322.github.io/3SB01/pic/jin.jpg)
 
 | **Stage Name** | Jin (진) |
 | **Birth Name** | Kim Seok Jin (김석진) |
@@ -37,7 +37,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Suga
 
-![suga](https://kprofiles.com/wp-content/uploads/2016/04/3-Suga-4-900x600.jpg)
+![suga](https://6210110322.github.io/3SB01/pic/suga.jpg)
 
 | **Stage Name** | Suga (슈가) |
 | **Birth Name** | Min Yoon Gi (민윤기) |
@@ -50,7 +50,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## J-Hope
 
-![jhope](https://kprofiles.com/wp-content/uploads/2016/04/4-J-Hope-4-900x600.jpg)
+![jhope](https://6210110322.github.io/3SB01/pic/jhope.jpg)
 
 | **Stage Name** | J-Hope (제이홉) |
 | **Birth Name** | Jung Ho Seok (정호석) |
@@ -63,7 +63,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Jimin
 
-![jimin](https://kprofiles.com/wp-content/uploads/2016/04/5-Jimin-4-900x600.jpg)
+![jimin](https://6210110322.github.io/3SB01/pic/jimin.jpg)
 
 | **Stage Name** | Jimin (지민) |
 | **Birth Name** | Park Ji Min (박지민) |
@@ -76,7 +76,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## V
 
-![v](https://kprofiles.com/wp-content/uploads/2016/04/6-V-4-900x600.jpg)
+![v](https://6210110322.github.io/3SB01/pic/v.jpg)
 
 | **Stage Name** | V (뷔) |
 | **Birth Name** | Kim Tae Hyung (김태형) |
@@ -89,7 +89,7 @@ title: "BTS (Bangtan Boys) Members"
 
 ## Jungkook
 
-![jungkook](https://kprofiles.com/wp-content/uploads/2016/04/7-Jungkook-4-900x600.jpg)
+![jungkook](https://6210110322.github.io/3SB01/pic/jungkook.jpg)
 
 | **Stage Name** | Jungkook (정국) |
 | **Birth Name** | Jeon Jung Kook (전정국) |
